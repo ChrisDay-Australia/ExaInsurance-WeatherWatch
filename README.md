@@ -10,14 +10,18 @@ A very simple JavaScript based application to do a search and display some resul
 
 * Create the forests for the database
 
-http://[yourhostname]:8001/add-forest.xqy?
-forest name:    exainsurance-01
+``http://[yourhostname]:8001/add-forest.xqy?``
+
+**forest name:**    exainsurance-01
+
 The remainder of the values can remain as the defaults, and press _OK_
 
 * Create the database
 
-http://[yourhostname]:8001/add-database.xqy?section=database
-database name:  exainsurance
+``http://[yourhostname]:8001/add-database.xqy?section=database``
+
+**database name:**  exainsurance
+
 The remainder of the value can remain as the defaults and press _OK_
 
 Now it is necessary to connect the forest to the database
@@ -26,7 +30,8 @@ Select your newly created forest from list and press _OK_
 
 * Create the HTTP Service
 
-http://[yourhostname]:8001/add-http-servers.xqy?webDAV=false&section=group
+``http://[yourhostname]:8001/add-http-servers.xqy?webDAV=false&section=group``
+
 Created the HTTP service called exainsurance
 server name:    exainsurance
 root:           /
@@ -57,3 +62,6 @@ further details can be found at: http://docs.marklogic.com/guide/ingestion/conte
 
 
 Further attempt at a sample application in which to show the main functionality of MarkLogic 
+
+
+&copy; Chris Day
