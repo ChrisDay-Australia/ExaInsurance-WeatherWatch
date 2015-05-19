@@ -53,6 +53,15 @@ database:           exainsurance
 
 The remainder of the values can stay as defaults and press _OK_
 
+* Create an XDBC Server for  the Module Database loading with the mlcp command
+
+xdbc server name:   Modules-xdbc
+root:               /
+port:               8003
+modules:            Modules
+database:           Modules
+
+The remainder of the values can stay as defaults and press _OK_
 
 ## Now we will try to get some data loaded into the database
 
