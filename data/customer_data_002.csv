@@ -1,0 +1,101 @@
+"id"|"first_name"|"last_name"|"address_1"|"suburb"|"state"|"postcode"|"policy_type"|"claim_date"|"claim_amount"
+10002|"Kadeem"|"Bowers"|"7909 Nec St."|"Shepparton"|"VIC"|3630|"mud"|"07/13/2015"|$31,811.51
+10014|"Grady"|"Tyler"|"6353 Tellus. Road"|"Canberra"|"ACT"|2600|"breakage"|07/12/15|$41,654.55
+10026|"Rudyard"|"Walter"|"Ap #417-2151 Bibendum St."|"Wollongong"|"NSW"|2500|"hail"|01/03/15|$28,277.63
+10038|"Ulric"|"Baird"|"P.O. Box 863, 161 Curae Street"|"Belgrave"|"VIC"|3160|"mud"|"04/27/2015"|$22,269.21
+10050|"Sylvester"|"Ballard"|"P.O. Box 424, 9969 Vel Av."|"Gosnells"|"WA"|6110|"theft"|"11/14/2015"|$47,026.84
+10062|"Conan"|"Mack"|"2135 Non, Rd."|"Moe"|"VIC"|3825|"theft"|"12/21/2015"|$3,715.13
+10074|"Cullen"|"Boyer"|"849-6440 Cras Road"|"Armidale"|"NSW"|2350|"breakage"|08/10/15|$24,922.21
+10086|"Hilel"|"Kelly"|"2768 Sociosqu Av."|"Logan Village"|"QLD"|4207|"flood"|"07/30/2014"|$20,860.13
+10098|"Lev"|"Cooper"|"Ap #447-3043 Tempus St."|"Melton"|"VIC"|3337|"breakage"|11/10/15|$35,045.17
+10110|"Keane"|"Day"|"738-400 Leo. Rd."|"Campbelltown"|"NSW"|2560|"flood"|"11/16/2014"|$46,082.52
+10122|"Graham"|"Williams"|"1261 Eget Rd."|"Sale"|"VIC"|3850|"fire"|"09/29/2015"|$41,452.05
+10134|"Boris"|"Miller"|"801-2861 Penatibus Rd."|"Gladstone"|"QLD"|4680|"fire"|"09/17/2015"|$26,009.50
+10146|"Gregory"|"Wyatt"|"200-3154 Purus, Av."|"Parramatta"|"NSW"|1740|"hail"|06/10/15|$7,137.43
+10158|"Raja"|"Ross"|"5074 Lorem Street"|"Murray Bridge"|"SA"|5253|"fire"|"01/23/2015"|$25,487.13
+10170|"Ryder"|"Grimes"|"Ap #471-8285 Metus Avenue"|"Charters Towers"|"QLD"|4820|"theft"|"07/14/2014"|$1,000.68
+10182|"Ignatius"|"Bruce"|"367-1789 Sed, Rd."|"Caloundra"|"QLD"|4551|"hail"|10/02/14|$22,670.62
+10194|"Vincent"|"Roberts"|"Ap #213-2192 Porta Ave"|"Port Augusta"|"SA"|5700|"hail"|05/11/15|$46,130.47
+10206|"Abraham"|"Blanchard"|"876-2863 Elit Rd."|"Geelong"|"VIC"|3220|"theft"|"05/22/2015"|$11,488.45
+10218|"Brody"|"Hobbs"|"5682 Ante Ave"|"Victor Harbor"|"SA"|5211|"flood"|"01/26/2016"|$37,328.23
+10230|"Dean"|"Nelson"|"222-4242 Consequat, Rd."|"Redcliffe"|"QLD"|4020|"mud"|"03/26/2016"|$4,346.07
+10242|"Stone"|"Hayes"|"263-278 Dictum Av."|"Rockingham"|"WA"|6168|"hail"|"05/18/2015"|$11,466.38
+10254|"Chaney"|"Gamble"|"836 Quis, Rd."|"Albury"|"NSW"|2640|"fire"|"11/29/2015"|$33,177.09
+10266|"Hakeem"|"Booker"|"P.O. Box 210, 4671 Quam. St."|"Queanbeyan"|"NSW"|2620|"theft"|04/05/16|$14,913.23
+10278|"Ross"|"Vang"|"875-6236 Consequat Street"|"Belgrave"|"VIC"|3160|"mud"|02/05/15|$27,517.64
+10290|"Jasper"|"Conley"|"P.O. Box 527, 2724 Libero Street"|"Canberra"|"ACT"|2600|"breakage"|09/04/14|$7,137.86
+10302|"Tanner"|"Kaufman"|"Ap #529-9344 Erat Street"|"Bundaberg"|"QLD"|4670|"fire"|"06/29/2014"|$9,877.63
+10314|"Xanthus"|"Phillips"|"P.O. Box 735, 438 Ut Avenue"|"Benalla"|"VIC"|3671|"hail"|"01/26/2016"|$4,551.51
+10326|"Chaney"|"Norman"|"2854 A Road"|"Cairns"|"QLD"|4870|"breakage"|03/11/16|$19,928.74
+10338|"Randall"|"Hamilton"|"P.O. Box 754, 7857 Enim Rd."|"Brisbane"|"QLD"|4000|"mud"|"05/17/2014"|$29,260.75
+10350|"Carson"|"Allen"|"308-5223 Cursus Rd."|"Campbelltown"|"NSW"|2560|"flood"|"08/28/2014"|$35,530.24
+10362|"Elliott"|"Galloway"|"953-9970 In Ave"|"Wollongong"|"NSW"|2500|"mud"|04/04/16|$39,720.21
+10374|"Zeus"|"Castaneda"|"Ap #872-7003 Sem, Street"|"Parramatta"|"NSW"|1740|"fire"|10/09/15|$5,624.58
+10386|"Jin"|"Andrews"|"Ap #131-8345 Eu, Avenue"|"Lithgow"|"NSW"|2790|"theft"|07/09/14|$23,612.48
+10398|"Abbot"|"Hutchinson"|"Ap #725-4213 Sed Rd."|"Belgrave"|"VIC"|3160|"mud"|12/12/14|$8,641.28
+10410|"Brennan"|"Potts"|"300-785 Magna Rd."|"Bayswater"|"WA"|6053|"breakage"|"03/17/2015"|$40,433.87
+10422|"Perry"|"Griffith"|"P.O. Box 125, 9043 Risus. Rd."|"Hamilton"|"VIC"|3300|"theft"|"04/13/2016"|$30,409.12
+10434|"Zachary"|"Guzman"|"P.O. Box 776, 4422 Sed Ave"|"Ballarat"|"VIC"|3350|"breakage"|"06/17/2015"|$40,001.74
+10446|"Devin"|"Johnston"|"Ap #315-5874 Arcu St."|"Kalgoorlie-Boulder"|"WA"|"#N/A"|"hail"|01/11/16|$15,042.92
+10458|"Troy"|"Woodard"|"P.O. Box 643, 6797 Iaculis Rd."|"Belgrave"|"VIC"|3160|"theft"|12/06/14|$38,517.31
+10470|"Nissim"|"Middleton"|"Ap #594-2032 Elit, Road"|"Whyalla"|"SA"|5600|"breakage"|"04/28/2015"|$11,158.71
+10482|"Plato"|"Greene"|"P.O. Box 178, 3789 Ut, Rd."|"Mackay"|"QLD"|4740|"breakage"|"02/19/2015"|$2,559.38
+10494|"Aladdin"|"Bird"|"Ap #975-2899 Neque. Road"|"Parramatta"|"NSW"|1740|"theft"|01/10/16|$20,349.77
+10506|"Marshall"|"Morrison"|"Ap #223-7111 Ipsum. Rd."|"Devonport"|"TAS"|7310|"hail"|"12/17/2014"|$43,984.87
+10518|"Todd"|"Gay"|"Ap #143-4111 Odio. Rd."|"Bayswater"|"WA"|6053|"hail"|08/12/14|$45,979.46
+10530|"Sawyer"|"Mason"|"9580 Egestas. Street"|"Ararat"|"VIC"|3377|"fire"|10/02/15|$9,984.10
+10542|"Laith"|"Church"|"P.O. Box 848, 9883 Ac Street"|"Albury"|"NSW"|2640|"breakage"|"06/19/2014"|$42,505.01
+10554|"Stuart"|"Nolan"|"Ap #756-3219 Eu Avenue"|"Horsham"|"VIC"|3400|"hail"|"04/14/2016"|$20,287.60
+10566|"Hyatt"|"Vega"|"356-3235 Sociis Road"|"Melbourne"|"VIC"|3000|"breakage"|04/04/16|$32,135.56
+10578|"Nash"|"Whitaker"|"1090 Pharetra, Av."|"Charters Towers"|"QLD"|4820|"hail"|11/08/14|$12,124.42
+10590|"Ivan"|"Farley"|"Ap #634-1578 Sodales St."|"Hervey Bay"|"QLD"|4655|"breakage"|10/11/14|$33,028.01
+10602|"Merritt"|"Kelley"|"P.O. Box 173, 6742 Ac Road"|"Launceston"|"TAS"|7250|"fire"|"07/27/2015"|$6,012.97
+10614|"Oscar"|"Rogers"|"300-4542 Eu, Avenue"|"Port Augusta"|"SA"|5700|"flood"|05/12/15|$46,201.46
+10626|"Lester"|"Lott"|"Ap #366-8275 Phasellus Av."|"Perth"|"WA"|6000|"flood"|"09/21/2015"|$41,616.67
+10638|"Herrod"|"Macdonald"|"5032 Blandit Rd."|"Swan Hill"|"VIC"|3585|"hail"|"10/31/2015"|$40,089.08
+10650|"Ezekiel"|"Burgess"|"P.O. Box 164, 9788 Ultrices. St."|"Dubbo"|"NSW"|2830|"mud"|"02/13/2016"|$33,067.87
+10662|"Hop"|"Downs"|"397-5923 Augue Rd."|"Goulburn"|"NSW"|2580|"breakage"|"08/18/2014"|$49,279.20
+10674|"Rashad"|"Huffman"|"Ap #199-4902 Sed Rd."|"Wodonga"|"VIC"|3689|"breakage"|"04/20/2016"|$27,858.86
+10686|"Guy"|"Murphy"|"Ap #100-6839 Leo. St."|"Logan Village"|"QLD"|4207|"flood"|"02/22/2016"|$33,849.51
+10698|"Cade"|"Travis"|"6738 Posuere Avenue"|"Warrnambool"|"VIC"|3280|"theft"|10/06/14|$45,044.01
+10710|"Declan"|"Ewing"|"9506 Cursus. Street"|"Brisbane"|"QLD"|4000|"hail"|"07/24/2014"|$2,132.37
+10722|"Chandler"|"Henson"|"916-519 Ut, Road"|"Port Augusta"|"SA"|5700|"fire"|12/03/15|$36,734.26
+10734|"Jamal"|"Perkins"|"P.O. Box 366, 4635 Enim. Rd."|"Charters Towers"|"QLD"|4820|"mud"|"03/25/2016"|$32,335.49
+10746|"Oliver"|"Mueller"|"P.O. Box 484, 5359 Tellus Road"|"Campbelltown"|"NSW"|2560|"flood"|01/04/16|$8,995.07
+10758|"Malachi"|"Patel"|"4343 Posuere Rd."|"Armidale"|"NSW"|2350|"hail"|09/08/15|$15,086.18
+10770|"Alexander"|"Delgado"|"436-5604 Malesuada St."|"Bairnsdale"|"VIC"|3875|"breakage"|"04/16/2015"|$9,400.83
+10782|"Marvin"|"Sandoval"|"Ap #202-5815 Non Av."|"Murray Bridge"|"SA"|5253|"theft"|02/08/15|$22,373.67
+10794|"Devin"|"Fisher"|"Ap #171-7752 Molestie Street"|"Cockburn"|"WA"|"#N/A"|"breakage"|12/12/15|$18,412.84
+10806|"Shad"|"Boyd"|"P.O. Box 555, 7416 Volutpat. Ave"|"Newcastle"|"NSW"|2300|"fire"|"02/23/2015"|$6,845.83
+10818|"Daniel"|"Mann"|"9051 Dis Av."|"Caloundra"|"QLD"|4551|"hail"|"09/25/2015"|$49,618.76
+10830|"Lyle"|"Reynolds"|"P.O. Box 451, 1652 Vestibulum St."|"Penrith"|"NSW"|2750|"mud"|"03/23/2015"|$38,246.54
+10842|"Kelly"|"Phelps"|"3808 Enim. Av."|"Mackay"|"QLD"|4740|"theft"|"05/25/2014"|$13,483.38
+10854|"Clayton"|"Wolfe"|"P.O. Box 767, 3903 Ullamcorper. Ave"|"Port Lincoln"|"SA"|5606|"breakage"|"01/18/2016"|$19,875.94
+10866|"Malachi"|"Weber"|"Ap #514-1914 Nunc Rd."|"Parramatta"|"NSW"|1740|"flood"|"02/26/2016"|$34,418.02
+10878|"Clark"|"Coffey"|"Ap #226-5351 Eu St."|"Warrnambool"|"VIC"|3280|"breakage"|"03/31/2016"|$27,549.73
+10890|"Honorato"|"Santos"|"641-5524 Imperdiet St."|"Dubbo"|"NSW"|2830|"theft"|"03/20/2015"|$6,148.90
+10902|"Reese"|"Holmes"|"580-4466 Aliquet St."|"Melton"|"VIC"|3337|"mud"|04/12/16|$41,589.18
+10914|"Mason"|"David"|"182-5385 Eget Av."|"Bunbury"|"WA"|6230|"fire"|11/05/14|$27,819.16
+10926|"Marshall"|"Gutierrez"|"594 Senectus Rd."|"Parramatta"|"NSW"|1740|"hail"|12/02/14|$46,313.66
+10938|"Kaseem"|"Dickson"|"7062 Semper. Road"|"Armadale"|"WA"|6112|"mud"|"04/16/2016"|$28,713.64
+10950|"Malik"|"Kent"|"688-1331 Ipsum Street"|"Bathurst"|"NSW"|2795|"flood"|02/05/15|$8,711.81
+10962|"Hilel"|"Marks"|"P.O. Box 392, 4858 Lacus, Rd."|"Ipswich"|"QLD"|4305|"hail"|"01/27/2016"|$23,350.27
+10974|"Norman"|"Neal"|"4856 Libero St."|"Albany"|"WA"|6330|"flood"|07/08/15|$18,264.79
+10986|"Malik"|"Turner"|"414-6769 Nulla. Av."|"Newcastle"|"NSW"|2300|"hail"|01/07/15|$41,410.55
+10998|"Ulysses"|"Keller"|"3068 Neque Ave"|"Canberra"|"ACT"|2600|"flood"|12/05/14|$36,317.05
+11010|"Lev"|"Sheppard"|"748-7309 Porttitor St."|"Queanbeyan"|"NSW"|2620|"hail"|"04/23/2015"|$2,595.57
+11022|"Simon"|"Estrada"|"3928 Fermentum Av."|"Gold Coast"|"QLD"|"#N/A"|"hail"|12/12/15|$29,678.21
+11034|"Gannon"|"Howell"|"Ap #161-6444 Sem Street"|"Ipswich"|"QLD"|4305|"breakage"|"09/26/2015"|$48,451.64
+11046|"Jeremy"|"Hart"|"Ap #828-1452 Vel, St."|"Hamilton"|"VIC"|3300|"hail"|09/12/15|$22,635.98
+11058|"Jordan"|"Farley"|"2552 Ultrices Rd."|"Wodonga"|"VIC"|3689|"hail"|04/02/16|$47,734.62
+11070|"Tate"|"Lewis"|"333-3690 Cum Street"|"Victor Harbor"|"SA"|5211|"theft"|"10/29/2015"|$45,480.72
+11082|"Brady"|"Hoover"|"3197 Semper St."|"Bendigo"|"VIC"|3550|"hail"|10/02/14|$44,317.03
+11094|"Sylvester"|"Irwin"|"8864 Tellus. Avenue"|"Swan Hill"|"VIC"|3585|"flood"|"05/24/2015"|$35,069.87
+11106|"Louis"|"Arnold"|"Ap #322-6724 In, Rd."|"Gladstone"|"QLD"|4680|"mud"|"11/19/2014"|$26,252.30
+11118|"Lyle"|"Sanford"|"Ap #947-1425 Aenean Avenue"|"Gold Coast MC"|"QLD"|4217|"theft"|07/09/15|$1,363.08
+11130|"Ciaran"|"Kemp"|"624-909 Lacus, St."|"Ararat"|"VIC"|3377|"flood"|01/12/16|$5,066.41
+11142|"Leroy"|"Ward"|"878 Ante Road"|"Canberra"|"ACT"|2600|"breakage"|"09/17/2014"|$49,111.97
+11154|"Hamish"|"Hicks"|"P.O. Box 402, 2192 Rutrum, Ave"|"Bathurst"|"NSW"|2795|"breakage"|"12/23/2014"|$27,357.42
+11166|"Akeem"|"Christian"|"Ap #192-9041 Eu, Road"|"Wollongong"|"NSW"|2500|"flood"|10/03/14|$17,980.21
+11178|"Dolan"|"Cummings"|"P.O. Box 394, 4135 Amet, St."|"Armadale"|"WA"|6112|"breakage"|"05/20/2014"|$18,336.41
+11190|"Chester"|"Riddle"|"P.O. Box 581, 9727 Morbi St."|"Lithgow"|"NSW"|2790|"flood"|11/12/15|$41,066.07
