@@ -29,6 +29,5 @@ build/Release
 node_modules
 
 # the actual data directory
-data
 
 
